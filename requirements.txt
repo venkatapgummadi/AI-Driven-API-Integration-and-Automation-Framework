@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+slowapi
+mangum
+jupyter
+requests
+python-multipart
