@@ -1,20 +1,24 @@
 # AI-Driven API Integration & Automation Framework 🧠🔗
 
-**Automate APIs with ML agents** - Zero-code workflows, self-healing, production-ready
+**Automate APIs with ML agents** – zero‑code workflows, self‑healing, production‑ready.
 
 [![Stars](https://img.shields.io/github/stars/venkatapgummadi/AI-Driven-API-Integration-and-Automation-Framework?style=social)](https://github.com/venkatapgummadi/AI-Driven-API-Integration-and-Automation-Framework)
+[![Forks](https://img.shields.io/github/forks/venkatapgummadi/AI-Driven-API-Integration-and-Automation-Framework?style=social)](https://github.com/venkatapgummadi/AI-Driven-API-Integration-and-Automation-Framework/fork)
 [![Docker](https://img.shields.io/docker/pulls/venkatapgummadi/ai-api-framework)](https://hub.docker.com/r/venkatapgummadi/ai-api-framework)
 
-## 🎥 Live Demo (20s)
-![Watch AI auto-integrate 5 APIs](demo.gif)  ← **ADD THIS GIF = 3X STARS**
+## 🎥 20s Live Demo
+![Watch AI auto‑integrate 5 APIs](demo.gif)
+> See the agent discover, chain, and heal 5 real APIs in under 20 seconds.
 
-## ✨ Why 1.2K+ devs use it
-- ✅ **1-click Docker** setup
-- ✅ ML-powered API discovery  
-- ✅ Self-healing workflows
-- ✅ 50+ API templates (Slack, Stripe, GitHub...)
+## ✨ Why devs use this
 
-## 🚀 Start in 60 Seconds
+- ✅ **1‑click Docker** setup, runs locally or in k8s  
+- ✅ ML‑powered API discovery and schema understanding  
+- ✅ **Self‑healing** workflows (retries, fallbacks, circuit‑breakers)  
+- ✅ 50+ ready‑made templates (Slack, Stripe, GitHub, Twilio, etc.)  
+- ✅ Built‑in observability (logs, traces, metrics) for each flow  
+
+## 🚀 Get started in 60 seconds
+
 ```bash
-docker run -p 8080:8080 venkatapgummadi/ai-api-framework
-# Open [localhost](http://localhost:8080)
+docker run --rm -p 8080:8080 venkatapgummadi/ai-api-framework
